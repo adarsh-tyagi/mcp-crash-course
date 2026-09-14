@@ -2,3 +2,5 @@ mcp
 python-dotenv
 ipykernel
 httpx
+google-genai
+langchain-google-genai

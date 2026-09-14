@@ -4,7 +4,9 @@ This repo includes the learning realated to MCP (Model Context Protocol) framewo
 ### Setup
 1. Store the API keys for models like GEMINI_API_KEY, OPENAI_API_KEY, GROQ_API_KEY in `.env` file.
 2. Required libraries are listed in `requirements.txt` file.
-3. To install requirements use commands: `uv add -r requirements.txt` or `pip install -r requirements.txt`
+3. Create virtual env using command: `uv venv` or `python -m venv venv`
+4. Activate the env: `.venv\Scripts\activate`
+5. To install requirements use commands: `uv add -r requirements.txt` or `pip install -r requirements.txt`
 
 ### Run
 1. To test a server with MCP inspector: `mcp dev server.py`
