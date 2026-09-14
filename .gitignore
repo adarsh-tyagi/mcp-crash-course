@@ -1,0 +1,50 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java / Kotlin / Gradle
+*.class
+.gradle/
+
+# Secrets
+secrets.json
+
+# local vector db
+**/faiss_store
+**/vector_store
+
+# testing dummy data
+**/pdf
+**/text_files
