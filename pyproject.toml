@@ -10,5 +10,6 @@ dependencies = [
     "ipykernel>=7.3.0",
     "langchain-google-genai>=4.4.0",
     "mcp>=2.2.0",
+    "nest-asyncio>=1.6.0",
     "python-dotenv>=1.2.3",
 ]

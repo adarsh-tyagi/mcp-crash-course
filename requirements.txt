@@ -4,3 +4,4 @@ ipykernel
 httpx
 google-genai
 langchain-google-genai
+nest-asyncio
