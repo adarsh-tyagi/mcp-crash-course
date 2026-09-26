@@ -1,7 +1,13 @@
 mcp
+mcp[cli]
 python-dotenv
 ipykernel
 httpx
 google-genai
 langchain-google-genai
 nest-asyncio
+langchain-groq
+langchain-mcp-adapters
+langgraph
+langchain
+langchain_community
